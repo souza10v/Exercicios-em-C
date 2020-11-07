@@ -2,7 +2,7 @@
  * Exercicío 1 
  * 
 */
-
+```C
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -18,3 +18,76 @@ int main() {
     system("pause");
     return 0;
 }
+```
+
+/**
+ * Exercicío 2
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 3
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 4
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 5
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 6
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 7
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 8
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 9
+ * 
+*/
+```C
+code
+```
+
+/**
+ * Exercicío 10
+ * 
+*/
+```C
+code
+```
