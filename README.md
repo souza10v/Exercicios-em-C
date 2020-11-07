@@ -1,4 +1,4 @@
-<p> teste </p>
+<p> Atividades em C </p>
 
 1 - Leia a altura e o raio de um cilindro circular e imprima o volume do cilindro. O volume de
 um cilindro circular é calculado por meio da seguinte fórmula: V = 𝜋 ∗ 𝑟𝑎𝑖𝑜2∗ 𝑎𝑙𝑡𝑢𝑟𝑎, onde𝜋 = 3,141592 .
@@ -7,9 +7,6 @@ um cilindro circular é calculado por meio da seguinte fórmula: V = 𝜋 ∗ �
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
-/* . 1 - Leia a altura e o raio de um cilindro circular e imprima o volume do cilindro. O volume de
-um cilindro circular é calculado por meio da seguinte fórmula: V = 𝜋 ∗ 𝑟𝑎𝑖𝑜2∗ 𝑎𝑙𝑡𝑢𝑟𝑎, onde𝜋 = 3,141592 .*/
 
 int main() {
     float base, altura, area;
@@ -24,7 +21,8 @@ int main() {
 }
 ```
 
-2
+2 -
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -40,7 +38,8 @@ int main() {
 }
 ```
 
-3
+3 - 
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -56,7 +55,8 @@ int main() {
 }
 ```
 
-4
+4 -
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -76,7 +76,8 @@ int main() {
 }
 ```
 
-5 
+5 -
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -101,12 +102,12 @@ int main() {
 }
 ```
 
-6
+6 - 
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
 
 int main()
 {
@@ -122,7 +123,8 @@ int main()
 }
 ```
 
-7
+7 - 
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -140,7 +142,8 @@ int main()
 }
 ```
 
-8 
+8 -
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -158,7 +161,8 @@ int main() {
 }
 ```
 
-9 
+9 -
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -176,7 +180,7 @@ int main() {
 }
 ```
 
-10
+10 -
 ```C
 #include <stdio.h>
 #include <stdlib.h>
