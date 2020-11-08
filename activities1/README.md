@@ -36,6 +36,6 @@
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities1/images/91.jpg?raw=true)
 
-<p>10 - Um funcionário de uma empresa de Paracatu recebe um salário fixo mais 4% de comissão sobre  suas vendas. Além disso, o funcionário tem um desconto de 2,25% sobre seu salário bruto ao final  do mês. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas em um  dado mês, calcule e mostre a comissão, o desconto e o seu salário líquido final.  </p>
+<p>10 - Um funcionário de uma empresa recebe um salário fixo mais 4% de comissão sobre  suas vendas. Além disso, o funcionário tem um desconto de 2,25% sobre seu salário bruto ao final  do mês. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas em um  dado mês, calcule e mostre a comissão, o desconto e o seu salário líquido final.  </p>
 
 
