@@ -4,7 +4,7 @@
 
 <p>1 - Escreva um programa em fluxograma para calcular a área de um triângulo, sendo dados a sua base  e a sua altura.  </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities1/images/11.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities1/images/1.jpg?raw=true)
 
 <p>2 - Escreva um algoritmo em fluxograma que leia um número inteiro e imprima o seu sucessor e o seu  antecessor.   </p>
 
