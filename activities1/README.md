@@ -22,7 +22,9 @@
 
 <ol>
   <li>O valor correspondente ao lucro do distribuidor.</li>
+  
   <li>O valor correspondente aos impostos.</li>
+  
   <li>O preço final do veículo. </li>
 </ol>
 
