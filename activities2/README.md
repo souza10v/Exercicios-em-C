@@ -36,11 +36,11 @@
 
 <p>7 - A nota final de um estudante do curso ADS é calculada a partir de três notas atribuídas,  respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A  média das três notas mencionadas obedece aos pesos a seguir: </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/71.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/071.jpg?raw=true)
 
 <p> Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito obtido  pelo aluno segundo a tabela abaixo: </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/72.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/072.jpg?raw=true)
 
 <p>8 - Uma faculdade atribui menções aos alunos conforme a faixa de notas que tenham atingido  conforme a tabela abaixo:  </p>
 
