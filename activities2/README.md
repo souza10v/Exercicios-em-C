@@ -62,7 +62,7 @@
   <li>O último dígito desse resultado é o dígito verificador da conta.  </li>
 </ul>
 
-<p>Exemplo:  </p>
+<p>Exemplo: </p>
 <ul>
   <li>Somar o número com o seu inverso: 235 + 532 = 767. </li>
   <li>Multiplicar cada dígito pelo seu valor posicional e somar estes resultados: (7 × 1) + (6 ×  2) + (7 × 3) = 40. </li>
