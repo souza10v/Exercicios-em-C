@@ -14,7 +14,7 @@
 
 <p>4 - Faça um programa para calcular a conta final de um hóspede de um hotel, considerando que:  </p>
 
-<ol>
+<ul>
   <li>Serão lidos o nome do hóspede, o tipo do apartamento utilizado (A, B, C ou D), o número de diárias utilizadas pelo hóspede e o valor do consumo interno do hóspede;</li>
   <li>O valor total das diárias é calculado pela multiplicação do número de diárias utilizadas pelo valor da diária; </li>
   <li>O subtotal é calculado pela soma do valor total das diárias e o valor do consumo interno; </li>
@@ -22,7 +22,7 @@
   <li>O total geral resulta da soma do subtotal com a taxa de serviço; </li>
   <li>Escreva a conta final contendo: o nome do hóspede, o tipo do apartamento, o número de diárias utilizadas, o valor unitário da diária, o valor total das diárias, o valor do consumo interno, o subtotal, o valor da taxa de serviço e o total geral. </li>
   <li>Valor da diária é determinado pela seguinte tabela:</li>
-  </ol>
+  </ul>
   
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/04.jpg?raw=true)
 
@@ -55,6 +55,19 @@
 <p> Faça um programa que receba o preço atual e a venda média mensal de um produto, calcule e  mostre o novo preço. </p>
 
 <p>10 - Escreva um algoritmo que leia o número de uma conta corrente com três dígitos (numérico inteiro)  e retorne o seu dígito verificador, o qual é calculado da seguinte maneira:  </p>
+
+<ul>
+  <li>Somar o número com o seu inverso.  </li>
+  <li>Multiplicar cada dígito pelo seu valor posicional e somar estes resultados.  </li>
+  <li>O último dígito desse resultado é o dígito verificador da conta.  </li>
+</ul>
+
+<p>Exemplo:  </p>
+<ul>
+  <li>Somar o número com o seu inverso: 235 + 532 = 767. </li>
+  <li>Multiplicar cada dígito pelo seu valor posicional e somar estes resultados: (7 × 1) + (6 ×  2) + (7 × 3) = 40. </li>
+  <li>O último dígito desse resultado é o dígito verificador da conta: 40 → 0. </li>
+</ul>
 
 
 
