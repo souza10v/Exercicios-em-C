@@ -34,7 +34,7 @@
 
 <p> Faça um algoritmo que leia o valor da compra e imprima o valor da venda. </p>
 
-<p>7 - A nota final de um estudante do curso ADS é calculada a partir de três notas atribuídas,  respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A  média das três notas mencionadas obedece aos pesos a seguir: </p>
+<p>7 - A nota final de um estudante é calculada a partir de três notas atribuídas,  respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A  média das três notas mencionadas obedece aos pesos a seguir: </p>
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/071.jpg?raw=true)
 
