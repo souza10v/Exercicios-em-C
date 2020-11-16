@@ -28,5 +28,35 @@
 
 <p>5 - Faça um algoritmo que leia o percurso de uma viagem em quilômetros e o tipo de carro utilizado. O programa deve apresentar uma estimativa de consumo de combustível, sabendo-se que o carro tipo A faz 12 km com um litro, o tipo B faz 9 km e o tipo C faz 8 km por litro. O programa deve ainda informar o valor estimado da viagem (em reais) sabendo-se que o preço do litro do combustível é fornecido como entrada. </p>
 
-<p>6 - </p>
+<p>6 - Um comerciante calcula o valor da venda, tendo em vista a tabela a seguir: </p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/06.jpg?raw=true)
+
+<p> Faça um algoritmo que leia o valor da compra e imprima o valor da venda. </p>
+
+<p>7 - A nota final de um estudante do curso ADS é calculada a partir de três notas atribuídas,  respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A  média das três notas mencionadas obedece aos pesos a seguir: </p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/71.jpg?raw=true)
+
+<p> Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito obtido  pelo aluno segundo a tabela abaixo: </p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/72.jpg?raw=true)
+
+<p>8 - Uma faculdade atribui menções aos alunos conforme a faixa de notas que tenham atingido  conforme a tabela abaixo:  </p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/08.jpg?raw=true)
+
+<p> Escreva um algoritmo que leia a nota final de um aluno e informa a menção. Mostrar também se a  nota é inválida.  </p>
+
+<p>9 - Um supermercado deseja reajustar o preço dos seus produtos usando o seguinte critério: o produto  poderá ter seu preço aumentado ou diminuído. Para o preço ser alterado, o produto deve preencher  pelo menos um dos requisitos a seguir: </p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/09.jpg?raw=true)
+
+<p> Faça um programa que receba o preço atual e a venda média mensal de um produto, calcule e  mostre o novo preço. </p>
+
+<p>10 - Escreva um algoritmo que leia o número de uma conta corrente com três dígitos (numérico inteiro)  e retorne o seu dígito verificador, o qual é calculado da seguinte maneira:  </p>
+
+
+
+
 
