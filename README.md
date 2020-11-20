@@ -1,1 +1,1 @@
-<p> Atividades em C </p>
+<p> Atividades desenvolvidas na linguagem C </p>
