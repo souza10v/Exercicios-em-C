@@ -10,11 +10,11 @@
 
 <p>3 - Escreva um algoritmo que leia a idade de uma pessoa e informe a sua classe eleitoral:  </p>
 
-<li>
+<ul>
   <ol> Abaixo de 16 anos → não eleitor</ol>
   <ol> Entre 18 e 65 anos → eleitor obrigatório</ol>
   <ol> Entre 16 e 18 anos e acima de 65 anos → eleitor facultativo</ol>
-</li>
+</ul>
 
 
 Colcoar imagemns e restante
