@@ -33,3 +33,5 @@
 <p>9 - Elabore um algoritmo que calcule o MMC (mínimo múltiplo comum) entre dois números lidos.</p>
 
 <p>10 - Elabore um algoritmo que imprima todas as tabuadas de multiplicação de 1 até 10.</p>
+
+<p>11 - Elabore um algoritmo que calcule o MDC (máximo divisor comum) entre dois números lidos. </p>
