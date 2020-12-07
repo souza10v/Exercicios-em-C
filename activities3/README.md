@@ -54,8 +54,33 @@
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
 
-<p>8 - </p>
-<p>9 - </p>
+<p>8 - Elabore um algoritmo que receba o valor do salário mínimo, o turno de trabalho, a categoria e o número de horas trabalhadas no mês de um funcionário. O turno de trabalho pode ser M (matutino), V (vespertino) ou N (noturno). A categoria poder ser O (operário) ou G (gerente). Suponha que haverá apenas a digitação de dados válidos. Calcule e mostre: </p>
+
+<p> a) O coeficiente do salário, de acordo com a tabela abaixo:</p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+
+<p> b) O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicadas pelo valor do coeficiente do salário. </p>
+<p> c) O imposto, de acordo com a tabela a seguir:</p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+
+<p> d) A gratificação, de acordo com a regra a seguir: se o funcionário preencher todos os requisitos, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. Requisitos → Turno: N ; Número de horas trabalhadas: superior a 80.</p>
+<p> e) O auxílio alimentação, de acordo com a regra a seguir: se o funcionário preencher algum dos requisitos, seu auxílio alimentação será de um terço do seu salário bruto; caso contrário, será de metade do seu salário bruto. Requisitos → Categoria: O ; Coeficiente de salário: inferior a 25.</p>
+<p> f) O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação.</p>
+<p> g) A classificação, de acordo com a tabela abaixo:</p>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+
+<p> </p>
+<p> </p>
+<p> </p>
+
+<p>9 - Faça um algoritmo que leia as dimensões A, B e C de uma sala retangular. Imagine que o piso dessa
+sala será trocado e que as paredes internas e externas serão pintadas. O programa deve também
+ler o tipo de piso a ser utilizado, bem como os tipos de tinta a serem utilizadas distintamente dentro
+e fora da sala. Baseado na tabela de preços abaixo, o programa deve calcular e exibir o custo de
+material desta reforma, sabendo-se que um litro de tinta cobre 2m2 de parede. </p>
 <p>10 - </p>
 
 Colcoar imagemns e restante
