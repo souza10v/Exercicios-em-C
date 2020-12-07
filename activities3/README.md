@@ -76,6 +76,8 @@
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/091.jpg?raw=true)
 
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/092.jpg?raw=true)
+
 <p>10 - Elabore um algoritmo que a partir da idade e peso do paciente calcule a dosagem de determinado medicamento e imprima a receita informando quantas gotas do medicamento o paciente deve tomar por dose. Considere que o medicamento em questão possui 500 mg por ml, e que cada ml corresponde a 20 gotas.</p>
 
 <ul>
