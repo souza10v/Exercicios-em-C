@@ -76,11 +76,15 @@
 <p> </p>
 <p> </p>
 
-<p>9 - Faça um algoritmo que leia as dimensões A, B e C de uma sala retangular. Imagine que o piso dessa
-sala será trocado e que as paredes internas e externas serão pintadas. O programa deve também
-ler o tipo de piso a ser utilizado, bem como os tipos de tinta a serem utilizadas distintamente dentro
-e fora da sala. Baseado na tabela de preços abaixo, o programa deve calcular e exibir o custo de
-material desta reforma, sabendo-se que um litro de tinta cobre 2m2 de parede. </p>
-<p>10 - </p>
+<p>9 - Faça um algoritmo que leia as dimensões A, B e C de uma sala retangular. Imagine que o piso dessa sala será trocado e que as paredes internas e externas serão pintadas. O programa deve também ler o tipo de piso a ser utilizado, bem como os tipos de tinta a serem utilizadas distintamente dentro e fora da sala. Baseado na tabela de preços abaixo, o programa deve calcular e exibir o custo de material desta reforma, sabendo-se que um litro de tinta cobre 2m2 de parede. </p>
 
-Colcoar imagemns e restante
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+
+<p>10 - Elabore um algoritmo que a partir da idade e peso do paciente calcule a dosagem de determinado medicamento e imprima a receita informando quantas gotas do medicamento o paciente deve tomar por dose. Considere que o medicamento em questão possui 500 mg por ml, e que cada ml corresponde a 20 gotas.</p>
+
+<ul>
+  <li> Adultos ou adolescentes desde 12 anos, inclusive, se tiverem peso igual ou acima de 60 quilos devem tomar 1000 mg; com peso abaixo de 60 quilos devem tomar 875 mg.</li>
+  <li> Para crianças e adolescentes abaixo de 12 anos a dosagem é calculada pelo peso corpóreo, conforme a tabela a seguir: </li>
+</ul>
+
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
