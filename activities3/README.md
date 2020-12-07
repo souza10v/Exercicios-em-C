@@ -4,7 +4,7 @@
 
 <p>1 - Elabore um algoritmo que calcule e exiba o valor a ser pago por um produto, considerando o preço  normal de tabela e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para  ler qual a condição de pagamento escolhida e efetuar o cálculo adequado.   </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/01.jpg?raw=true)
 
 <p>2 - Leia um valor em ponto flutuante com duas casas decimais. Este valor representa um valor  monetário. A seguir, calcule o menor número de notas e moedas possíveis no qual o valor pode ser  decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50,  0.25, 0.10, 0.05 e 0.01. A seguir mostre a relação de notas e moedas necessárias.    </p>
 
@@ -71,10 +71,6 @@
 <p> g) A classificação, de acordo com a tabela abaixo:</p>
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
-
-<p> </p>
-<p> </p>
-<p> </p>
 
 <p>9 - Faça um algoritmo que leia as dimensões A, B e C de uma sala retangular. Imagine que o piso dessa sala será trocado e que as paredes internas e externas serão pintadas. O programa deve também ler o tipo de piso a ser utilizado, bem como os tipos de tinta a serem utilizadas distintamente dentro e fora da sala. Baseado na tabela de preços abaixo, o programa deve calcular e exibir o custo de material desta reforma, sabendo-se que um litro de tinta cobre 2m2 de parede. </p>
 
