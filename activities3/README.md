@@ -18,7 +18,7 @@
 
 <p>4 - Crie um algoritmo que informe a quantidade de calorias de uma refeição, a partir da escolha do  usuário que deverá informar o prato, a sobremesa e a bebida de acordo com a tabela abaixo: </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/04.jpg?raw=true)
 
 <p>5 - Faça um algoritmo que verifique se uma letra digitada é vogal ou consoante. </p>
 
@@ -38,11 +38,11 @@
 
 <p> a) O valor adicional do produto, de acordo com a tabela abaixo: </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/071.jpg?raw=true)
 
 <p> b) O valor do imposto de acordo com a regra a seguir:</p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/072.jpg?raw=true)
 
 <p> c) O preço de custo, ou seja, preço mais imposto. </p>
 
@@ -52,29 +52,29 @@
 
 <p> f) A classificação do produto, de acordo com a tabela abaixo: </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/073.jpg?raw=true)
 
 <p>8 - Elabore um algoritmo que receba o valor do salário mínimo, o turno de trabalho, a categoria e o número de horas trabalhadas no mês de um funcionário. O turno de trabalho pode ser M (matutino), V (vespertino) ou N (noturno). A categoria poder ser O (operário) ou G (gerente). Suponha que haverá apenas a digitação de dados válidos. Calcule e mostre: </p>
 
 <p> a) O coeficiente do salário, de acordo com a tabela abaixo:</p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/081.jpg?raw=true)
 
 <p> b) O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicadas pelo valor do coeficiente do salário. </p>
 <p> c) O imposto, de acordo com a tabela a seguir:</p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/082.jpg?raw=true)
 
 <p> d) A gratificação, de acordo com a regra a seguir: se o funcionário preencher todos os requisitos, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. Requisitos → Turno: N ; Número de horas trabalhadas: superior a 80.</p>
 <p> e) O auxílio alimentação, de acordo com a regra a seguir: se o funcionário preencher algum dos requisitos, seu auxílio alimentação será de um terço do seu salário bruto; caso contrário, será de metade do seu salário bruto. Requisitos → Categoria: O ; Coeficiente de salário: inferior a 25.</p>
 <p> f) O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação.</p>
 <p> g) A classificação, de acordo com a tabela abaixo:</p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/083.jpg?raw=true)
 
 <p>9 - Faça um algoritmo que leia as dimensões A, B e C de uma sala retangular. Imagine que o piso dessa sala será trocado e que as paredes internas e externas serão pintadas. O programa deve também ler o tipo de piso a ser utilizado, bem como os tipos de tinta a serem utilizadas distintamente dentro e fora da sala. Baseado na tabela de preços abaixo, o programa deve calcular e exibir o custo de material desta reforma, sabendo-se que um litro de tinta cobre 2m2 de parede. </p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/091.jpg?raw=true)
 
 <p>10 - Elabore um algoritmo que a partir da idade e peso do paciente calcule a dosagem de determinado medicamento e imprima a receita informando quantas gotas do medicamento o paciente deve tomar por dose. Considere que o medicamento em questão possui 500 mg por ml, e que cada ml corresponde a 20 gotas.</p>
 
@@ -83,4 +83,4 @@
   <li> Para crianças e adolescentes abaixo de 12 anos a dosagem é calculada pelo peso corpóreo, conforme a tabela a seguir: </li>
 </ul>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities2/images/03.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/092.jpg?raw=true)
