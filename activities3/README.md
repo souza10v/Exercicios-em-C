@@ -85,4 +85,4 @@
   <li> Para crianças e adolescentes abaixo de 12 anos a dosagem é calculada pelo peso corpóreo, conforme a tabela a seguir: </li>
 </ul>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/092.jpg?raw=true)
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities3/images/010.jpg?raw=true)
