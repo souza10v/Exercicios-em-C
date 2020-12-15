@@ -8,9 +8,11 @@
 
 <p>3 - Fazer um programa que leia um vetor A contendo 30 números inteiros, calcule e exiba: </p>
 
-<p> a) o maior elemento. </p>
-<p> b) a posição (índice) do maior elemento. </p>
-
+<ul>
+<li> a) o maior elemento. </li>
+<li> b) a posição (índice) do maior elemento. </li>
+</ul>
+  
 <p>4 - </p>
 
 <p>5 - </p>
