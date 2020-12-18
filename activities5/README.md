@@ -72,24 +72,41 @@
 <li> c) Mostre a matriz transposta.</li>
 </ul>   
 
-<p>13 - </p>
+<p>13 - Fazer um algoritmo que: </p>
 
-<p>14 - </p>
+<ul>
+  <li> a) Leia uma matriz A, de dimensão 4 x 4. Cada linha da matriz é fornecida como entrada. </li>
+  <li> b) Verifique se os valores da diagonal secundária são primos. </li>
+ </ul>
 
-<p>15 - </p>
+<p>14 - Fazer um programa para ler uma matriz 3 x 5 de números inteiros e escrevê-la após ter multiplicado cada elemento por 2. </p>
 
-<p>16 - </p>
+<p>15 - Construa um algoritmo para ler uma matriz 4 x 4 e troque os valores da 1ª linha pelos da 4ª coluna, vice-e-versa. Escrever ao final a matriz obtida. </p>
+
+<p>16 - Dado uma matriz de ordem NxN faça um algoritmo que verifique se a matriz é simétrica (aij=aji).</p>
 
 <p>17 - </p>
 
-<p>18 - </p>
+<ul>
+  <li> a) Qual a soma dos valores de cada coluna da matriz. </li>
+  <li> b) Listar os valores que são menores que a média dos valores. </li>
+  <li> c) Qual a soma dos elementos da diagonal secundária. </li>
+ </ul>
+ 
+<p>18 - Faça um algoritmo que preencha uma matriz 6 x 4. Recalcule a matriz digitada, onde cada linha deverá ser multiplicada pelo maior elemento da linha em questão. Mostre a matriz resultante. </p>
 
-<p>19 - </p>
-
-<p>20 - </p>
+<p>19 - Faça um algoritmo que preencha uma matriz 12 x 4 com os valores das vendas de uma loja, em que cada linha representa um mês e cada coluna representa uma semana do mês. O programa deverá calcular e mostrar:</p>
 
 <ul>
-  <li> Abaixo de 16 anos → não eleitor</li>
-  <li> Entre 18 e 65 anos → eleitor obrigatório</li>
-  <li> Entre 16 e 18 anos e acima de 65 anos → eleitor facultativo</li>
+  <li> a) O total vendido em cada mês do ano, mostrando o nome do mês por extenso.</li>
+  <li> b) O total vendido em cada semana durante todo o ano.</li>
+  <li> c) A semana com a maior quantidade de vendas durante um dado mês.</li>
+  <li> d) O total vendido pela loja no ano.</li>
+</ul>
+
+<p>20 - Uma escola deseja controlar as médias das disciplinas que seus alunos cursam. Sabe-se que nessa escola existem três turmas, com oito alunos cada uma, e cada aluno cursa quatro disciplinas. Crie um programa que armazene essas médias em uma matriz. Depois da leitura dos dados, o programa deverá calcular e mostrar : </p>
+
+<ul>
+  <li> A média de cada turma.</li>
+  <li> A média geral da escola.</li>
 </ul>
