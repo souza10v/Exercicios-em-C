@@ -61,7 +61,7 @@
 <li> b) Some todos os elementos da matriz.</li>
 <li> c) Encontre quais elementos da matriz são pares.</li>
 <li> d) Multiplique os elementos da coluna 3.</li>
-<li> e) Mostre os elementos da diagonal principal.<li>
+<li> e) Mostre os elementos da diagonal principal.</li>
 </ul>   
 
 <p>12 - Fazer um algoritmo que: </p>
