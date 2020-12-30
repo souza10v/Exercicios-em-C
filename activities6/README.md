@@ -4,6 +4,8 @@
 
 <p>1 - Implemente um algoritmo em C para calcular o valor de DOIDO, sendo n fornecido pelo usuário. A série DOIDO se encerra quando o denominador for igual a 1.  </p>
 
+![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities4/images/05.jpg?raw=true)
+
 <p>2 - Em uma fábrica trabalham homens e mulheres divididos em três classes:  </p>
 
 <ul>
