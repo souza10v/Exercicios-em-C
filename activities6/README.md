@@ -61,7 +61,9 @@ a um acorde de que apenas os 10 primeiros cooperados seriam premiados com um acr
 pagamento dos insumos entregues à cooperativa. O primeiro em quantidade de entrega recebe um
 acréscimo de 20% no preço de venda, o segundo 18%, o terceiro 16% até o décimo maior
 cooperado.
-Construa um programa para cadastrar todos os dados dos cooperados e que, em seguida, exiba uma
+Construa um programa para cadastrar todos os dados dos cooperados e que, em seguida, exiba uma relação contendo os dados dos cooperados beneficiados com a promoção. Ao fim da relação deve-se exibir o total em R$ que a cooperativa vai desembolsar para oferecer essa promoção. </p>
 
-relação contendo os dados dos cooperados beneficiados com a promoção. Ao fim da relação deve-
-se exibir o total em R$ que a cooperativa vai desembolsar para oferecer essa promoção. </p>
+<p> 8 - Um hemocentro possui um cadastro de doadores de sangue. Faça um algoritmo para: <p/>
+
+<p> a) Ler os dados de 600 pessoas com: nome, data de nascimento, tipo sanguíneo e fator RH<./p>
+<p> b) Escrever o nome das pessoas com idade entre 18 e 55 anos com tipo sanguíneo B+. </p>
