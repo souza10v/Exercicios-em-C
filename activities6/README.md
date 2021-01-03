@@ -47,3 +47,21 @@ mostre os seguintes vetores resultantes:</p>
 
 <p> a) A união de A e B.</p>
 <p> b) A intersecção de A e B. </p>
+
+<p> 6 - Na teoria dos sistemas, define-se o elemento MINMAX de uma matriz como o maior elemento da
+linha em que se encontra o menor elemento da matriz. Elabore um programa que carregue uma
+matriz 4x7 com números reais, calcule e mostre seu MINMAX e sua posição. </p>
+
+<p> 7 - Em uma cooperativa do interior de Minas Gerais decidiu-se beneficiar os produtores que mais
+venderem produtos agrícolas à cooperativa. Para poder realizar a aplicação dos benefícios, foi
+necessário cadastrar cada um dos 1230 cooperados, armazenando seus nomes, telefones, CPF,
+endereço, quantidade já enviada à cooperativa, o total em R$ da produção entregue e a data (Ano,
+Mês e Dia) em que se tornou associado da cooperativa. Em reunião, os administradores chegaram
+a um acorde de que apenas os 10 primeiros cooperados seriam premiados com um acréscimo no
+pagamento dos insumos entregues à cooperativa. O primeiro em quantidade de entrega recebe um
+acréscimo de 20% no preço de venda, o segundo 18%, o terceiro 16% até o décimo maior
+cooperado.
+Construa um programa para cadastrar todos os dados dos cooperados e que, em seguida, exiba uma
+
+relação contendo os dados dos cooperados beneficiados com a promoção. Ao fim da relação deve-
+se exibir o total em R$ que a cooperativa vai desembolsar para oferecer essa promoção. </p>
