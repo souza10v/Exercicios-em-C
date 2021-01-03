@@ -67,3 +67,12 @@ Construa um programa para cadastrar todos os dados dos cooperados e que, em segu
 
 <p> a) Ler os dados de 600 pessoas com: nome, data de nascimento, tipo sanguíneo e fator RH<./p>
 <p> b) Escrever o nome das pessoas com idade entre 18 e 55 anos com tipo sanguíneo B+. </p>
+  
+<p> 9 - Em certo município, vários proprietários de imóveis estão em atraso com o pagamento do IPTU. Escreva um programa que calcule e escreva o valor da multa a ser paga por estes proprietários, bem como o total a ser arrecadado pelo município, considerando que:</p>
+
+<ul>
+<li> Os dados de cada imóvel (identificação, valor do imposto e número de meses em atraso) estão à disposição para leitura;</li>
+<li> As multas devem ser calculadas no valor de 2% por mês de atraso;</li>
+<li> O último registro lido, que não deve ser considerado, contém identificação do imóvel igual a zero;</li>
+<li> O programa deve exibir: a identificação do imóvel, valor do imposto, número de meses em atraso e multa a ser paga.</li>
+</ul>
