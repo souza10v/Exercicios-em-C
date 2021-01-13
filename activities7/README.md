@@ -28,13 +28,13 @@ inteiros lidos pelo usuário. </p>
 podem ser formados a partir de n pessoas. Por exemplo, Comb(4, 3) = 4, pois com 4 pessoas (A, B,
 C, D), é possível formar 4 diferentes grupos: ABC, ABD, ACD e BCD. Sabe-se que: </p>
 
-![alt text]https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/07.jpg
+![alt text] https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/07.jpg
 
 <p> Implemente um algoritmo que contenha uma função recursiva para Comb (n, k). </p>
 
 <p>8 - O hiperfatorial de um número N, escrito H(n), é definido por:  </p>
 
-![alt text]https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/08.jpg
+![alt text] https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/08.jpg
 
 <p> Faça uma função recursiva que receba um número inteiro positivo N e retorne o hiperfatorial desse
 número. </p>
