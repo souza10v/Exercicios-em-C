@@ -5,7 +5,7 @@
 <p>1 - Crie um algoritmo contendo uma função que receba como parâmetro um valor inteiro e positivo N
 e retorne o valor de S, obtido pelo seguinte cálculo:</p>
 
-
+<p2>2 - Escreva um algoritmo que leia um vetor de 10 posições e mostre-o na tela. Faça uma função que crie um vetor inverso, trocando o 1º elemento com o último, o 2º elemento com o penúltimo e assim sucessivamente. Mostre o novo vetor depois da troca. </p>
 
 
 
