@@ -18,6 +18,6 @@ e retorne o valor de S, obtido pelo seguinte cálculo:</p>
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/08.jpg)
 
-<p> Faça uma função recursiva que receba um número inteiro positivo N e retorne o hiperfatorial desse
+<p> Faça uma função recursiva que receba um número inteiro positivo N eiperfatorial desse
 número. </p>
 
