@@ -14,3 +14,20 @@ aluno, a média geral da turma e a porcentagem de aprovação, sabendo-se que a 
 Com base nas informações acima, faça o que se pede nos itens abaixo:</p>
 
 ![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/07.jpg)
+
+
+<ol>
+<li>Crie as estruturas e variáveis necessárias para armazenar todos os dados de entrada e saída do programa.</li>
+<li>Crie a estrutura responsável por ler todos os dados de todos os 35 alunos, armazenando-os em um vetor de registro.
+Esta estrutura deverá estar dentro do escopo da função main().</li>
+<li>Crie a estrutura responsável por ler as respostas de cada aluno para cada questão da prova. Esta estrutura deverá estar
+dentro do escopo da função main().</li>
+<li>Crie uma função para calcular a nota final de cada aluno e armazená-la no campo adequado definido na estrutura que
+contém os dados dos alunos.</li>
+<li>Crie uma função que ordene de forma crescente o vetor de registro dos alunos pelo campo nota.</li>
+<li>Crie uma função que calcula a média geral da turma e retorne o resultado para a função main().</li>
+<li>Crie uma função que calcula a maior nota da turma e retorne o resultado para a função main().</li>
+<li>Crie uma função que calcula a menor nota da turma e retorne o resultado para a função main().</li>
+<li>Crie uma função que calcula a porcentagem de alunos aprovados na turma e retorne o resultado para a função main().</li>
+<li>Crie uma função que exiba todos os dados do aluno que obteve a maior nota da turma.</li>
+</ol>
