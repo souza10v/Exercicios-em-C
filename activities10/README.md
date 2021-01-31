@@ -29,12 +29,12 @@ deverá ser finalizado quando for inserido 0 (zero) para o identificador único.
 <p> O sistema deverá funcionar com o seguinte menu de opções: </p>
 
 <ol>
-<li> - Cadastrar evento</li>
-<li> 2 – Pesquisar evento</li>
-<li> 3 – Ingressos vendidos</li>
-<li> 4 – Exibir resultado por evento</li>
-<li> 5 – Exibir resultado geral</li>
-<li> 6 – Sair</li>
+<li> Cadastrar evento</li>
+<li> Pesquisar evento</li>
+<li> Ingressos vendidos</li>
+<li> Exibir resultado por evento</li>
+<li> Exibir resultado geral</li>
+<li> Sair</li>
 </ol>
   
 
