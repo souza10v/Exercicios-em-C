@@ -1,6 +1,6 @@
 <h1>Atividades 10 </h1>
 
-<p> Um promoter da cidade de Paracatu deseja controlar todos os eventos dos quais participa e você foi
+<p> Um promoter deseja controlar todos os eventos dos quais participa e você foi
 contratado para resolver esse problema.</p>
   
 <p> Assim que começou o trabalho, você ficou sabendo que o cadastro de um evento necessita de: identificador
