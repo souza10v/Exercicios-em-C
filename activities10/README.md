@@ -1,31 +1,39 @@
 <h1>Atividades 10 </h1>
 
-<p> As resoluções podem ser encontradas nos diretório codes onde estão enumeradas conforme o número da atividade. </p>
+<p> Um promoter da cidade de Paracatu deseja controlar todos os eventos dos quais participa e você foi
+contratado para resolver esse problema.</p>
+  
+<p> Assim que começou o trabalho, você ficou sabendo que o cadastro de um evento necessita de: identificador
+único (um código inteiro), nome, local, data da realização, quantidade de ingressos colocados à venda,
+custos de organização e valor da entrada.</p>
 
-<p>Considere um programa que analisa e corrige as avaliações de uma turma do ADS. A avaliação é composta por 20
-questões e tem o valor total de 10 pontos, ou seja, cada questão vale 0,5 pts.
-Deve ser criado uma estrutura para o cadastro do aluno contendo o nome do aluno, endereço do aluno, RA do aluno e
-a nota final do aluno. O endereço do aluno deverá conter campos para o nome da rua, número da residência, bairro,
-CEP, cidade e estado. Considere que existam 35 alunos matriculados na turma.
-O gabarito da prova será lido e armazenado em um vetor de 20 posições.
-As respostas que cada aluno deu às questões serão lidas e armazenadas em uma matriz de 35 linhas por 20 colunas.
-O programa deve calcular e exibir: o nome e a nota de cada aluno, a maior e a menor nota da turma, a média de cada
-aluno, a média geral da turma e a porcentagem de aprovação, sabendo-se que a nota mínima é 6,0.
-Com base nas informações acima, faça o que se pede nos itens abaixo:</p>
+<p> Foi-lhe informado também que existem sempre três valores de entrada: o 1o valor, para as entradas do
+tipo popular; o 2o valor, para as entradas do tipo normal e o 3o valor para as entradas do tipo especial.
+Alguns desses eventos são festas open bar, possuindo assim, além de todas as informações anteriores,
+uma relação das quatro bebidas que serão servidas. As informações das bebidas, por sua vez, são nome,
+teor alcóolico e valor unitário.</p>
 
-
+<p> O valor das entradas populares é calculado automaticamente, da seguinte forma: </p>
+  
 <ol>
-<li>Crie as estruturas e variáveis necessárias para armazenar todos os dados de entrada e saída do programa.</li>
-<li>Crie a estrutura responsável por ler todos os dados de todos os 35 alunos, armazenando-os em um vetor de registro.
-Esta estrutura deverá estar dentro do escopo da função main().</li>
-<li>Crie a estrutura responsável por ler as respostas de cada aluno para cada questão da prova. Esta estrutura deverá estar
-dentro do escopo da função main().</li>
-<li>Crie uma função para calcular a nota final de cada aluno e armazená-la no campo adequado definido na estrutura que
-contém os dados dos alunos.</li>
-<li>Crie uma função que ordene de forma crescente o vetor de registro dos alunos pelo campo nota.</li>
-<li>Crie uma função que calcula a média geral da turma e retorne o resultado para a função main().</li>
-<li>Crie uma função que calcula a maior nota da turma e retorne o resultado para a função main().</li>
-<li>Crie uma função que calcula a menor nota da turma e retorne o resultado para a função main().</li>
-<li>Crie uma função que calcula a porcentagem de alunos aprovados na turma e retorne o resultado para a função main().</li>
-<li>Crie uma função que exiba todos os dados do aluno que obteve a maior nota da turma.</li>
+<li>eventos open bar: R$ 60,00 mais 50% do valor unitário de cada bebida que será servida;</li>
+<li>demais eventos: custo de organização dividido pela quantidade de ingressos colocados à venda.</li>
 </ol>
+  
+<p> O valor da entrada normal é o valor da entrada popular mais 10% desse mesmo valor. Já o valor da entrada
+especial é o valor da entrada normal mais 15% desse mesmo valor. </p>
+
+<p> Você deverá implementar um sistema que cadastre os eventos desse promoter. O cadastro dos eventos
+deverá ser finalizado quando for inserido 0 (zero) para o identificador único.</p>
+
+<p> O sistema deverá funcionar com o seguinte menu de opções: </p>
+
+<p> 
+1 – Cadastrar evento
+2 – Pesquisar evento
+3 – Ingressos vendidos
+4 – Exibir resultado por evento
+5 – Exibir resultado geral
+6 – Sair</p>
+
+
