@@ -15,10 +15,10 @@ teor alcóolico e valor unitário.</p>
 
 <p> O valor das entradas populares é calculado automaticamente, da seguinte forma: </p>
   
-<ol>
-<li>eventos open bar: R$ 60,00 mais 50% do valor unitário de cada bebida que será servida;</li>
-<li>demais eventos: custo de organização dividido pela quantidade de ingressos colocados à venda.</li>
-</ol>
+<ul>
+<li> eventos open bar: R$ 60,00 mais 50% do valor unitário de cada bebida que será servida;</li>
+<li> demais eventos: custo de organização dividido pela quantidade de ingressos colocados à venda.</li>
+</ul>
   
 <p> O valor da entrada normal é o valor da entrada popular mais 10% desse mesmo valor. Já o valor da entrada
 especial é o valor da entrada normal mais 15% desse mesmo valor. </p>
@@ -28,12 +28,13 @@ deverá ser finalizado quando for inserido 0 (zero) para o identificador único.
 
 <p> O sistema deverá funcionar com o seguinte menu de opções: </p>
 
-<p> 
-1 – Cadastrar evento
-2 – Pesquisar evento
-3 – Ingressos vendidos
-4 – Exibir resultado por evento
-5 – Exibir resultado geral
-6 – Sair</p>
-
+<ul>
+<li> 1 – Cadastrar evento</li>
+<li> 2 – Pesquisar evento</li>
+<li> 3 – Ingressos vendidos</li>
+<li> 4 – Exibir resultado por evento</li>
+<li> 5 – Exibir resultado geral</li>
+<li> 6 – Sair</li>
+</ul>
+  
 
