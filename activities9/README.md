@@ -13,8 +13,6 @@ O programa deve calcular e exibir: o nome e a nota de cada aluno, a maior e a me
 aluno, a média geral da turma e a porcentagem de aprovação, sabendo-se que a nota mínima é 6,0.
 Com base nas informações acima, faça o que se pede nos itens abaixo:</p>
 
-![alt text](https://github.com/souza10v/Exercicios-em-C/blob/main/activities7/images/07.jpg)
-
 
 <ol>
 <li>Crie as estruturas e variáveis necessárias para armazenar todos os dados de entrada e saída do programa.</li>
