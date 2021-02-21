@@ -28,6 +28,7 @@
   <li>O preço final do veículo. </li>
 </ol>
 
+
 <p>6 - Escreva um algoritmo que leia um número inteiro no formato CDU (centena-dezena-unidade) e  imprima os algarismos correspondentes a cada casa.  </p>
 
 <p>7 - Escreva um programa para ler uma temperatura dada na escala Fahrenheit e exibir o equivalente  em Celsius.  </p>
