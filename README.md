@@ -1,1 +1,1 @@
-<p> Atividades didáticas desenvolvidas em linguagem de programação C</p>
+<p> Atividades didáticas desenvolvidas em linguagem de programação C.</p>
